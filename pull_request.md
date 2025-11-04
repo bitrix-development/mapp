@@ -1,0 +1,1 @@
+Добавлен skeleton нативного Android-приложения (Kotlin, Jetpack Compose). Включены Hilt, Retrofit/OkHttp, Room, WebSocket stub, FCM stub, ForegroundService для звонков и GitHub Actions для сборки debug APK. docs/API_CONTRACT.md добавлен с минимальным контрактом REST + WebSocket. TODO: baseUrl, Firebase setup, TURN/STUN или интеграция VoIP SDK и keystore/CI secrets.
